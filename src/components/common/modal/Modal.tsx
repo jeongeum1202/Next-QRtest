@@ -11,8 +11,8 @@ type ModalProps = {
 export default function Modal({ setIsOpen, onClose }: ModalProps) {
   return (
     <S.ModalBg>
-      {/* <HtmlScanner setIsOpen={setIsOpen} onClose={onClose} /> */}
-      <ReactScanner onClose={onClose} />
+      <HtmlScanner setIsOpen={setIsOpen} onClose={onClose} />
+      {/* <ReactScanner onClose={onClose} /> */}
     </S.ModalBg>
   );
 }

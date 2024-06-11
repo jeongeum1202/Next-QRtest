@@ -1,4 +1,4 @@
-// File: C:\developer\GitHubRepo\Next-QRtest\src\app\contents\page.tsx
+// File: /Users/jeongeum/Documents/developer/Next-QRtest/src/app/contents/page.tsx
 import * as entry from '../../../../src/app/contents/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
